@@ -29,5 +29,5 @@ To build a Grapghql API and connect it to a publicly available REST api followin
 
 
 
-# Acknowledgement
+# Acknowledgements
 The API uses the PokeAPI as a datasource and uses its field definition and documentation.
