@@ -2,11 +2,11 @@
 A Graphql API that uses [PokeAPI](https://pokeapi.co/) as a data source, implemented with Nodejs and Apollo.
 
 # How to use 
-## Dependencies
+### Dependencies
 - Node.js v16.15.0
 - npm 9.8.1
   
-## Run:
+### Run:
 1. Clone the repo.
 3. Run the following commands to start Apollo server.
    - `npm install`
